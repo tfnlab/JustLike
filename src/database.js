@@ -7002,7 +7002,7 @@ module.exports = {
   "1000":{
   "Influence": "Unknown",
   "Name": "Unknown",
-  "Type": "Unknown"
+  "Type": "Unknown",
   "imgurl": "https://meta.makotodigital.art/mp4image/1000.png",
   "imgurlog": "https://meta.makotodigital.art/mp4/1000.mp4"
   }
